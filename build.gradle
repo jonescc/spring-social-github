@@ -14,7 +14,7 @@ configure(allprojects) {
     apply plugin: 'idea'
     apply plugin: 'javadocHotfix'
 
-    group = 'org.springframework.social'
+    group = 'com.hillcrest7054'
 
     sourceCompatibility=1.5
     targetCompatibility=1.5
